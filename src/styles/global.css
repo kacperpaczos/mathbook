@@ -1,0 +1,14 @@
+* {
+    box-sizing: border-box;
+}
+
+body,html {
+    margin: 0px;
+    background-color: aqua;
+}
+
+/* TMP*/
+h1{
+    margin: 0px;
+    padding: 0px;
+}

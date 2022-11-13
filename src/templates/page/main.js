@@ -1,20 +1,24 @@
 import * as React from "react"
+import styled from "styled-components"
 
-const pageStyles = {
-  color: "#232129",
-  padding: 96,
-  fontFamily: "-apple-system, Roboto, sans-serif, serif",
-}
+const Main = styled.main`
+  color: #333333;
+  width: 100vw;
+  height: 100vh;
+  background-color: #fafafa;
 
+  font-size: 18px;
+  font-family: 'Merriweather', serif;
+  font-family: 'Times New Roman', sans-serif;
+  `
 
-const IndexPage = () => {
+const MainContainer = ({ children }) => {
   return (
-    <main style={pageStyles}>
-      
-    </main>
+    <Main>
+      { children }
+    </Main>
   )
 }
 
-export default IndexPage
+export default MainContainer
 
-export const Head = () => <title>Home Page</title>

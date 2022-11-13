@@ -58,3 +58,25 @@
 4.  **Learn more.**
 
     - [Documentation](https://www.gatsbyjs.com/docs/tutorial/part-0/#installation-guide)
+
+
+# TODO
+- Add SEO and metadata -> https://www.gatsbyjs.com/docs/how-to/adding-common-features/adding-seo-component/  
+- Add 404 page
+- manifest
+- Add Nav, last clicked element
+- MathLibrary https://katex.org/
+- https://mermaid-js.github.io/mermaid/#/
+- https://www.mathjax.org/#features
+- https://github.com/HarryStevens/geometric
+- https://jsxgraph.uni-bayreuth.de/wp/about/index.html
+- https://www.geogebra.org/m/DxRaCCZt
+- Create basic Components
+- https://www.imo-official.org/problems.aspx
+- https://www.fuw.edu.pl/~kostecki/histmat.pdf
+- https://om.mimuw.edu.pl/problems/
+- https://youtu.be/UWOVipHUZaM
+- https://matematykaszkolna.pl/strona/3414.html
+- https://www.youtube.com/user/mathtutordvd/videos
+- https://matzadanie.pl/egzamin-osmoklasisty/2022
+- Czcionki w main.js, z google, najlwpeij offiline

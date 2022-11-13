@@ -4,7 +4,17 @@
 module.exports = {
   siteMetadata: {
     title: `Mathbook`,
-    siteUrl: `https://www.yourdomain.tld`
+    siteUrl: `https://www.yourdomain.tld`,
+    menuLinks:[
+      {
+        name:'Strona główna',
+        link:'/'
+      },
+      {
+        name:'Strona główna',
+        link:'/'
+      }
+    ]
   },
   plugins: ["gatsby-plugin-styled-components", "gatsby-plugin-image", "gatsby-plugin-sitemap", "gatsby-plugin-sharp", "gatsby-transformer-sharp", {
     resolve: 'gatsby-source-filesystem',
